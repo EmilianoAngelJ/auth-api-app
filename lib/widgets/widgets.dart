@@ -1,0 +1,12 @@
+export 'package:auth_api_app/widgets/add_space.dart';
+export 'package:auth_api_app/widgets/contact_form.dart';
+export 'package:auth_api_app/widgets/custom_appbar.dart';
+export 'package:auth_api_app/widgets/custom_drawer.dart';
+export 'package:auth_api_app/widgets/form_fields/birthdate_form_field.dart';
+export 'package:auth_api_app/widgets/form_fields/custom_text_form_field.dart';
+export 'package:auth_api_app/widgets/form_fields/email_form_field.dart';
+export 'package:auth_api_app/widgets/form_fields/gender_form_field.dart';
+export 'package:auth_api_app/widgets/form_fields/phone_form_field.dart';
+export 'package:auth_api_app/widgets/form_fields/profile_form_field.dart';
+export 'package:auth_api_app/widgets/profile_picture.dart';
+export 'package:auth_api_app/widgets/sign_button.dart';

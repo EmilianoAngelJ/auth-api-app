@@ -1,0 +1,1 @@
+/Users/emilianoangel/Proyectotiendas/auth_api_app/build/app/intermediates/cxx/Debug/52g4e1l6/obj/x86_64

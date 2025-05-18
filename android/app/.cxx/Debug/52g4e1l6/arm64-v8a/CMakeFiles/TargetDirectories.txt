@@ -1,0 +1,2 @@
+/Users/emilianoangel/Proyectotiendas/auth_api_app/android/app/.cxx/Debug/52g4e1l6/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/emilianoangel/Proyectotiendas/auth_api_app/android/app/.cxx/Debug/52g4e1l6/arm64-v8a/CMakeFiles/rebuild_cache.dir
