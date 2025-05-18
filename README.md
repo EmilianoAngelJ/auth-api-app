@@ -55,6 +55,7 @@ cd auth-api-app
 ```bash
 flutter pub get
 ```
+> ⚠️ If you already have a Firebase proyect configured with authentication and Firestore enabled skip to step number 6.
 
 ### 3. Create a Firebase Project
 
